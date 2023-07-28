@@ -1,0 +1,4 @@
+# Arquivo json para API Google Sheets
+credentials.json
+# Arquivo .env com o TOKEN do Bot do Telegram
+.env
